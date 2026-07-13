@@ -31,4 +31,4 @@ A web-based retro vinyl record player interface for your Spotify playback.
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [Apache 2.0 License](LICENSE).
