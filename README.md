@@ -2,6 +2,10 @@
 
 A web-based retro vinyl record player interface for your Spotify playback. 
 
+<!-- live-links -->
+**Live:** [gitguy268.github.io/vinyl-player-for-spotify](https://gitguy268.github.io/vinyl-player-for-spotify/) · [vinyl-player-for-spotify.vercel.app](https://vinyl-player-for-spotify.vercel.app)
+<!-- /live-links -->
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
