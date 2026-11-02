@@ -2,6 +2,25 @@
 
 A web-based retro vinyl record player interface for your Spotify playback. 
 
+<!-- run-steps:start -->
+## Run it locally, step by step
+
+1. **Get the code:**
+
+   ```sh
+   git clone https://github.com/Gitguy268/vinyl-player-for-spotify.git
+   cd vinyl-player-for-spotify
+   ```
+
+2. **Start a local web server** (Python 3 comes with macOS and most Linux systems):
+
+   ```sh
+   python3 -m http.server 8000
+   ```
+
+3. **Open <http://localhost:8000/>** in your browser. Press `Ctrl+C` in the terminal to stop.
+<!-- run-steps:end -->
+
 ## Features
 * **Visual Vinyl Player**: Enjoy a classic vinyl aesthetic while listening to your favorite Spotify tracks.
 * **Web-Based**: Built with standard web technologies.
